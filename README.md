@@ -5,7 +5,6 @@ Just a life tracker made in a break time to make my life more easy and clutter-f
 <img src="https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/built_with-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/powered_by-Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Claude_Sonnet-8C4FFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/storage-100%25_Local-success?style=for-the-badge"/>
 
 # 🧬 Life Tracker Pro
@@ -83,7 +82,6 @@ A real-time command center showing your day at a glance — habit completion per
 - Reads your full data context: habits, tasks, mood, goals, and routine
 - Provides personalized insights, motivation, and actionable suggestions
 - Conversational multi-turn chat interface
-- Powered by `claude-sonnet-4-20250514` via the Anthropic API
 
 ---
 
@@ -95,7 +93,7 @@ A real-time command center showing your day at a glance — habit completion per
 | Native Runtime | Apache Capacitor |
 | Platform | Android (APK) |
 | Storage | `localStorage` with namespaced keys (`lt_v1_*`) |
-| AI Integration | Anthropic Claude API (`claude-sonnet-4-20250514`) |
+| AI Integration | Not Perfectly Available for Now |
 | Styling | Custom CSS with CSS variables and dark theme |
 | Icons | Custom inline SVG icon system |
 | Package ID | `com.lifetracker.pro` |
@@ -142,7 +140,7 @@ The `DB.exportAll()` and `DB.importAll()` utilities allow full data portability 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/life-tracker-pro.git
+git clone https://github.com/ovrrup/life-tracker-pro.git
 cd life-tracker-pro
 
 # 2. Install dependencies
