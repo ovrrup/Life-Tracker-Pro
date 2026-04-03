@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Life Tracker Pro</string>
+    <string name="title_activity_main">Life Tracker Pro</string>
+    <string name="package_name">com.lifetracker.pro</string>
+    <string name="custom_url_scheme">com.lifetracker.pro</string>
+</resources>
