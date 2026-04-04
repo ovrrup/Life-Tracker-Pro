@@ -12,8 +12,8 @@ import 'shared/widgets/lt_widgets.dart';
 //  SUPABASE CONFIG  →  Replace with your project URL and anon key
 //  Get them from: https://app.supabase.com → Project Settings → API
 // ─────────────────────────────────────────────────────────────────────────────
-const _supabaseUrl  = 'https://YOUR_PROJECT_ID.supabase.co';
-const _supabaseAnon = 'YOUR_ANON_KEY';
+const _supabaseUrl  = 'https://ecjbqdgswjwegdneirav.supabase.co';
+const _supabaseAnon = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVjamJxZGdzd2p3ZWdkbmVpcmF2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUyMDY3NzQsImV4cCI6MjA5MDc4Mjc3NH0.-ImwnWgqkOks-vvmW0SsfCyvkIEjWGGwDj4xn5JYxro';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
